@@ -21,6 +21,9 @@ body {
 }
 
 /* Contacto */
+.form-width {
+  max-width: 40rem;
+}
 
 #Contacto form label {
   font-weight: 700;
